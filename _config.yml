@@ -2,8 +2,8 @@
 title               : Jinhyun Choi
 description         : >-
                       "HELLO"
-baseurl             : "/JinhyunChoi-DEV"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : JinhyunChoi-DEV/JinhyunChoi-DEV.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             :                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : JinhyunChoi-DEV.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Jinhyun Choi
-  image             : "/assets/image/mainlogo.jpg"
+  image             : "assets/image/mainlogo.jpg"
 # behance           : your_username
 # dribbble          : your_username
   email             : choijinhyun.dev@gmail.com
