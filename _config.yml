@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Jinhyun Choi
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      "HELLO"
 baseurl             : "/JinhyunChoi-DEV"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : JinhyunChoi-DEV/JinhyunChoi-DEV.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Jinhyun Choi
-  image             : "/assets/image/main-logo.png"
+  image             : "/assets/image/mainlogo.jpg"
 # behance           : your_username
 # dribbble          : your_username
   email             : choijinhyun.dev@gmail.com
@@ -58,19 +56,6 @@ collections:
     permalink: /projects/:name
 
 
-
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
-
-### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
@@ -101,3 +86,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+github: [metadata]
