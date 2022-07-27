@@ -1,3 +1,4 @@
+<ul class="pagination justify-content-center">
 <div class="card-deck m-5">
     {% for project in site.projects %}
   
@@ -10,15 +11,12 @@
   
       {%- if project.external_url -%}
         {%- assign project_url = project.external_url -%}
-        {%- assign external    = true -%}
       {%- else -%}
         {%- assign project_url = project.url | relative_url -%}
-        {%- assign external    = false -%}
       {%- endif -%}
   
-      {% include projects/project-card.html %}
+      {% include project-card.html %}
   
     {% endfor %}
-  
   </div>
-  
+</div>

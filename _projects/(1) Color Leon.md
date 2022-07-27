@@ -1,7 +1,8 @@
 ---
 name: Color Leon
 tools: [2D, Puzzle, Platformer]
-image: "/assets/projects/ColorLeon.png"
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+image: "/assets/projects/ColorLeon/TitleImage.png"
+#description: A 2D puzzle-platform game where character’s color changes physics of the world. Players must cleverly change character’s colors in order to escape the level.
 ---
+
+# Color Leon
