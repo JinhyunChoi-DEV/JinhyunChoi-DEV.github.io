@@ -4,7 +4,10 @@ tools: [2D, Puzzle, Platformer]
 image: "/assets/projects/ColorLeon/TitleImage.png"
 ---
 
-# Color Leon
+# **Color Leon**
+
+<br>
+
 {% include elements/video.html id="-ziJQth6YZw" %}
 
 <br>

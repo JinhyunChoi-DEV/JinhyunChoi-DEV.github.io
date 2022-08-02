@@ -4,7 +4,10 @@ tools: [2D, Puzzle, Platformer]
 image: "/assets/projects/CamPic/TitleImage.png"
 ---
 
-# CamPic
+# **CamPic**
+
+<br>
+
 {% include elements/video.html id="3uhzH--LFxA" %}
 
 <br>

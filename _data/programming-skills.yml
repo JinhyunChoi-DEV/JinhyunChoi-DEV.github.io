@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: C / C++
+  percentage: 75
+  color: primary
+
+- name: C#
+  percentage: 85
   color: danger
+  
+- name: OpenGL
+  percentage: 75
+  color: primary
 
-- name: Go
+- name: Unity Engine
   percentage: 80
-  color:
+  color: success
 
-- name: Python
-  percentage: 70
-  color: secondary
+- name: Git
+  percentage: 85
+  color: danger

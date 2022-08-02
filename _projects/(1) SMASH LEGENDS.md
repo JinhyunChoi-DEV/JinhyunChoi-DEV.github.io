@@ -4,7 +4,9 @@ tools: [3D, Action, Casual, Fighting, Multiplayer, PvP]
 image: "/assets/projects/SMASH LEGENDS/TitleImage.jpg"
 ---
 
-# SMASH LEGENDS
+# **SMASH LEGENDS**
+<br>
+
 {% include elements/video.html id="ZHVXAMyi8hI" %}
 
 <br>
