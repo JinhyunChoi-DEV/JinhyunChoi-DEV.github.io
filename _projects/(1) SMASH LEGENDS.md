@@ -19,7 +19,7 @@ image: "/assets/projects/SMASH LEGENDS/TitleImage.jpg"
 <br>
 
 ## Information
-- ###### **Platform**: [PC](https://store.steampowered.com/app/1352080/SMASH_LEGENDS/), [Android](https://play.google.com/store/apps/details?id=com.linegames.sl), [IOS](https://apps.apple.com/app/smash-legends/id1492660284)
+- ###### **Platform**: [PC](https://store.steampowered.com/app/1352080/SMASH_LEGENDS/), [Android](https://play.google.com/store/apps/details?id=com.linegames.sl), [iOS](https://apps.apple.com/app/smash-legends/id1492660284)
 - ###### **Engine**: Unity Engine
 - ###### **Team Size**: 50~60 persons
 - ###### **Genre**: 3D Casual Action
