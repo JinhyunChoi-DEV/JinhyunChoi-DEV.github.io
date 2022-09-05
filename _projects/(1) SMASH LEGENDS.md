@@ -35,6 +35,7 @@ image: "/assets/projects/SMASH LEGENDS/TitleImage.jpg"
  - ###### As a Outgame Client Programmer, I should have made many UI Scenes and pages. For making it efficient, I concentrated on modules system for reusing codes. Because of these efforts, UI artists could make pages and UI layouts fast and I made many UI effect modules for realizing artist needs.
 - ###### During Version 1.0, I had responsibility Outgame part live service (only me). So, I fixed many bugs and managed live service operating systems like maintenance systems, master data managing, localization, and build deploying.
  - ###### For launching Version 2.0, I attached SDK to our project and made SDK implementation for features. After attaching SDK to our project, I made Login, Maintenance, IAP(In-App Purchase), Billing System with Purchase, and Push Alarm System.
+ - ###### Having the experience to manage and update market space like play store, app store, and Steamworks for updating IAP (In-App-Purchasing), maintenance game status, and many other things. 
 
 <br>
 <br>
