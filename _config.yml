@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Jinhyun Choi
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am Jinhyun Choi
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : JinhyunChoi-DEV/JinhyunChoi-DEV.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -31,7 +29,7 @@ author:
   github            : JinhyunChoi-DEV
   instagram         : c_jinhyun_
   linkedin          : choijinhyun-dev
-  spotify           : PpuRal
+  spotify           : 31xng77xplz36l4crporwehdhpyq
   youtube           : channel/UCSDGt19ZpJ-2Q1aaf9mCVrw
 
 
