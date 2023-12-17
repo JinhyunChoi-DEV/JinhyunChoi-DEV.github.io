@@ -1,0 +1,20 @@
+- name: Unity Engine
+  color: info 
+  
+- name: Unreal Engine
+  color: info
+
+- name: OOP
+  color: info
+
+- name: TTD
+  color: info
+
+- name: Functional Programming 
+  color: info
+
+- name: Design Pattern
+  color: info
+
+- name: SOLID 
+  color: info

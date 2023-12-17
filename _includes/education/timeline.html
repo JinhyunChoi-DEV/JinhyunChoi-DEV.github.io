@@ -1,0 +1,19 @@
+<div class="col mt-4">
+  <div class="timeline-body bg-themed">
+    {% for item in site.data.educationtimeline %}
+      <div class="timeline-item">
+        <div class="content" style="display: flex; align-items: center;">
+          <img src="/assets/education/Digipen.jpg" alt="Digipen Logo" style="margin-right: 10px;">
+          <div>
+            <h2>{{ item.school }}</h2>
+            <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
+            <h6>Degree: {{ item.degree }}</h6>
+            <h6>Major: {{ item.detail_degree }}</h6>
+            <h6>GPA: {{ item.gpa }}</h6>
+            <p>{{ item.description }}</p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,23 @@
+- name: C
+  color: info 
+  
+- name: C++
+  color: info
+
+- name: C#
+  color: info
+
+- name: GLSL
+  color: info
+
+- name: CSS
+  color: info
+
+- name: HTML
+  color: info
+
+- name: JSON
+  color: info
+
+- name: Assembly
+  color: info

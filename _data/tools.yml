@@ -1,0 +1,43 @@
+- name: Git / SVN
+  color: info
+
+- name: Linux
+  color: info
+
+- name: OpenGL
+  color: info
+
+- name: GLEW / GLFW
+  color: info
+
+- name: Visual Studio
+  color: info
+
+- name: Visual Code
+  color: info
+
+- name: Resharper / Rider
+  color: info
+
+- name: Android Studio
+  color: info
+
+- name: gcc / g++
+  color: info
+
+- name: RenderDoc
+  color: info
+
+- name: Nintendo SDK With Unity Engine
+  color: info
+
+- name: Native Nintendo Code(NX)
+  color: info
+
+- name: DirectX
+  color: info
+
+- name: IMGUI
+  color: info
+
+- name: Android Developer / Apple Developer

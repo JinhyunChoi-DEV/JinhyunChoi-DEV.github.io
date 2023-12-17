@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Teaching Assistant (Computer Graphics)
+  from: Sep 2023
+  to: Dec 2023
+  detail: Digipen DigiPen Institute of Technology (Redmond, WA)
+  description: TODO
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Outgame Client Programmer
+  from: Jan 2020
+  to: Apr 2022
+  detail: 5minlab (Korea, Seoul)
+  description: TODO
+
+- title: Student
+  from: Jan 2017
+  to: Present
+  detail: Digipen DigiPen Institute of Technology (Redmond, WA)
+  description: TODO
