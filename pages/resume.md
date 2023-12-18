@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-weight: 6
+weight: 7
 ---
 
 {% include elements/button.html link="https://jinhyunchoi-dev.github.io/assets/resume/Resume.pdf" text="Download RESUME as pdf" block=true %}
