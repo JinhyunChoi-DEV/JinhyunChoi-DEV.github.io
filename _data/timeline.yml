@@ -3,21 +3,27 @@
   to: Dec 2023
   detail: Digipen DigiPen Institute of Technology (Redmond, WA)
   description_info:
-    - description: TODO1
-    - description: TODO2
+    - description: Providing support for students' learning, reviewing assignments, and assisting with questions.
+    - description: Offered individual guidance to students struggling with understanding the course material. Additionally, I evaluated students' performance on project assignments.
+    - description: Leveraged a deep understanding of OpenGL and Shader programming to provide technical guidance to students. I also reviewed the technical aspects of projects.
+    - description: Covered Geometric modeling, Lighting, shading & deferred shading, Texture & parallax mapping, and Environmental, reflective & refractive mapping.
 
 - title: Outgame Client Programmer
   from: Jan 2020
   to: Apr 2022
   detail: 5minlab (Korea, Seoul)
   description_info:
-    - description: TODO1
-    - description: TODO2
+    - description: Collaborated with UI designers to develop Unity-based UI scenes, pages, and various systems.
+    - description: Collaborated with server programmers to develop various out-game functionalities on the client side, using a range of network technologies such as MQTT, WebSocket, and HTTP requests.
+    - description: Attached SDK to our project and made SDK implementation for features. Made Login, Maintenance, IAP(In-App Purchase), Billing System with Purchase, and Push Alarm System.
+    - description: Coordinated market space like PlayStore, AppStore, and Steam, and tested those APIs like review ratings, IAP and many other functions.
+    - description: As the live service specialist for the out-game part, I worked on addressing issues and bugs, developing new features related to live services, and collaborated extensively with the PM team on game operations.
 
 - title: Student
   from: Jan 2017
   to: Present
   detail: Digipen DigiPen Institute of Technology (Redmond, WA)
   description_info:
-    - description: TODO1
-    - description: TODO2
+    - description: Bachelor of Science in Computer Science in Real-Time Interactive Simulation.
+    - description: Study of Computer Science, Computer Graphics, Game Project, and other Programming classes.
+    - description: Study of Linear Algebra and 3D Mathmatic knowledge.
