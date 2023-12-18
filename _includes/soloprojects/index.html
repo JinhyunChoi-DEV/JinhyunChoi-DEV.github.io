@@ -1,0 +1,18 @@
+<div class="card-deck m-5">
+  <div class="row justify-content-center"></div>
+  {% for project in site.soloprojects %}
+
+    {%- assign project_type  = "local" -%}
+    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_img   = project.image -%}
+    {%- assign project_name  = project.name -%}
+    {%- assign project_desc  = project.description -%}
+    {%- assign project_tools = project.tools -%}
+
+    {%- assign project_url = project.url | relative_url -%}
+    {%- assign external    = false -%}
+
+    {% include soloprojects/project-card.html %}
+
+  {% endfor %}
+</div>

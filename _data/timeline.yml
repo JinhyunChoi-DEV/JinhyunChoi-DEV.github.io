@@ -2,16 +2,22 @@
   from: Sep 2023
   to: Dec 2023
   detail: Digipen DigiPen Institute of Technology (Redmond, WA)
-  description: TODO
+  description_info:
+    - description: TODO1
+    - description: TODO2
 
 - title: Outgame Client Programmer
   from: Jan 2020
   to: Apr 2022
   detail: 5minlab (Korea, Seoul)
-  description: TODO
+  description_info:
+    - description: TODO1
+    - description: TODO2
 
 - title: Student
   from: Jan 2017
   to: Present
   detail: Digipen DigiPen Institute of Technology (Redmond, WA)
-  description: TODO
+  description_info:
+    - description: TODO1
+    - description: TODO2

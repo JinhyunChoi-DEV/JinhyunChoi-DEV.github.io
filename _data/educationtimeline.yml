@@ -3,5 +3,11 @@
   detail_degree: Real Time Interactive Simulation
   gpa: 3.92
   from: 2017
-  description: TODO
-  to: 2024
+  to: Present
+  course_info:
+    - course: "Computer Science Programming"
+    - course: "Computer Graphics Programming"
+    - course: "Game Project Programming"
+    - course: "Data Science Programming"
+    - course: "Low-Level Programming"
+    - course: "Linear Algebra & 3D Math"

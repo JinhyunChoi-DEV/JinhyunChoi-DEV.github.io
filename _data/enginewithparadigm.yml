@@ -4,17 +4,17 @@
 - name: Unreal Engine
   color: info
 
-- name: OOP
-  color: info
-
-- name: TTD
-  color: info
-
 - name: Functional Programming 
   color: info
 
 - name: Design Pattern
   color: info
 
-- name: SOLID 
+- name: SOLID Principles 
+  color: info
+
+- name: OOP (Object Oriented Programming)
+  color: info
+
+- name: TDD (Test Driven Development)
   color: info

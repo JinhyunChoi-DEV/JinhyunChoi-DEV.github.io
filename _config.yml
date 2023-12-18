@@ -39,11 +39,13 @@ permalink: /blog/:title
 
 ### Collections ###
 collections:
-  projects:
+  soloprojects:
     output: true
-    permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+    permalink: /soloprojects/:name
+
+  teamprojects:
+    output: true
+    permalink: /teamprojects/:name
 
 
 ### Disqus ###
