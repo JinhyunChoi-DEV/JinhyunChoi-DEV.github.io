@@ -27,9 +27,10 @@ image: "/assets/soloprojects/StaticRayTracing/Title.jpg"
 {% include elements/carousel.html %}
 
 ## Description
-- ##### TODO
+- ###### Explored fundamental and advanced ray tracing techniques, covering intersection calculations, local illumination models (micro-facet BRDF), and global illumination models (lighting equation solved using Monte Carlo methods) 
+- ###### Culminated in implementing a path-tracing algorithm with next event estimation, capable of generating images showcasing unique lighting and modeling techniques not typically found in traditional real-time graphics
+- ###### Demonstrated proficiency in advanced rendering algorithms
 
-<br>
 
 ## Information
 - ##### **Github**: 
@@ -40,9 +41,10 @@ Custom Engine
 C++
 - ##### **Tools**:
  OpenMP, GLM, bvh library, Assimp, RNGen
-- ##### TODO
 
-<br>
 
 ## Contributions    
- - ###### TODO
+ - ###### Calculations for ray-surfaces intersection of many types of surfaces: explicit, implicit, procedural, fractal, …
+ - ###### Local lighting calculations: Modern micro-facet BRDFs, reflection, refraction, shadowing
+ - ###### Global lighting calculations: Indirect calculations via the integral lighting equation
+ - ###### The Monte Carlo solution to the integral lighting equation including many importance sampling techniques, multiple-importance sampling and other performance enhancements

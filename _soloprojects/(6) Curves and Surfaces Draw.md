@@ -11,9 +11,10 @@ image: "/assets/soloprojects/CurvesAndSurfaces/Title.png"
 {% include elements/video.html id="TDKTbT2B_Uc" %}
 
 ## Description
-- ##### TODO
+- ###### Explored to parameterized polynomial curves and surfaces with a view toward applications in computer graphics
+- ###### Covered Algebraic aspects include vector spaces of functions, special polynomial and piecewisepolynomial bases, polynomial interpolation, and polar forms
+- ######  Constructive aspects include the de Casteljau algorithm and the de Boor algorithm
 
-<br>
 
 ## Information
 - ##### **Github**: 
@@ -23,10 +24,24 @@ Unity Engine
 - ##### **Language**: 
 C#
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Solidified my knowledge of Linear Algebra by using it as a tool to solve problems involving vector spaces of polynomial and spline functions
+ - ###### Utilized dynamic programming algorithms to code the drawing of curves with a large number of vertices, demonstrating proficiency in handling complex geometric tasks
+ - ###### Implemented 2D curves using below algorithm with C# with Unity Engine
+    - De Casteljau Algorithm for Polynomial Functions
+  <br>
+    - De Casteljau Algorithm for Bezier Curves
+  <br>
+    - Interpolation with Polynomials
+  <br>
+    - Interpolation with Cubic Splines
+  <br>
+    - De Boor Algorithm: Spline Functions
+  <br>
+    - De Boor Algorithm: Polynomial Curves
+  <br>
+    - De Boor Algorithm: B-Spline Curves
 
 <br>
 ## Photo

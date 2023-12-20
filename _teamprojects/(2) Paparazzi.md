@@ -29,7 +29,7 @@ C#
 - ##### **Team**: 
 Team G157 (6 members)
 - ##### **Project Development Time**: 
-3 Month (Sept 2023 ~ Dec 2023)
+4 Month (Sept 2023 ~ Dec 2023)
 - ##### **My Role**: 
 Tech Director, General Programmer, Git Director
 

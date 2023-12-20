@@ -11,9 +11,11 @@ image: "/assets/soloprojects/RenderingOptimize/Title.png"
 {% include elements/video.html id="2SOSclYiG1k" %}
 
 ## Description
-- ##### TODO
+- ###### Deal with the efficient representation and processing of complex 3D scenes in order to avoid bottlenecks in the use of the CPU and the GPU
+- ###### Implemented a variety of spatial data structures: Binary Space-Partitioning Trees, Octrees, Kd-Trees, and Grid Data Structures
+- ###### Implemented object-culling methods: Occlusion, Viewport, and Portal
+- ###### Construction and uses of bounding volumes and their hierarchies for collision detection and related geometric operations
 
-<br>
 
 ## Information
 - ##### **Github**: 
@@ -25,10 +27,12 @@ C++
 - ##### **Tools**: 
 OpenGL, ImGui, GLFW, RenderDoc, Assimp
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Hybrid Rendering: Forward & Deferred Rendering(Shading)
+ - ###### Simple Collision Intersection With Debug Drawing
+ - ###### Bounding Volumes: Axis-Aligned Bounding Box(AABB), Bounding Sphere with Ritter's, Larsson's, and PCA-based Method
+ - ###### Spatial Partitioning: Adaptive Octree, K-d Tree, BSP Tree
 
 <br>
 ## Photo
