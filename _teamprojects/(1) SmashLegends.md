@@ -1,7 +1,7 @@
 ---
 layout: page
 name: SMASH LEGENDS
-tools: [Action, Casual, Fighting, Multiplayer, PvP, 3D, Unity Engine]
+tools: [Game, Action, Casual, Multiplayer, PvP, 3D, Unity Engine]
 image: "/assets/teamprojects/SmashLegends/Title.jpg"
 ---
 
