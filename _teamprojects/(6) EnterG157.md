@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Enter The G157
-tools: [Shooting, Top-down, 2D, Unity Engine, Nintendo Switch]
+tools: [Game, Shooting, Top-down, 2D, Unity Engine, Nintendo Switch]
 image: "/assets/teamprojects/EnterTheG157/Title.png"
 ---
 

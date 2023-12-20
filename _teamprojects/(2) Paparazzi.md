@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Paparazzi
-tools: [Casual, Platformer, Puzzle, 3D, Unity Engine]
+tools: [Game, Casual, Platformer, Puzzle, 3D, Unity Engine]
 image: "/assets/teamprojects/Paparazzi/Title.png"
 ---
 

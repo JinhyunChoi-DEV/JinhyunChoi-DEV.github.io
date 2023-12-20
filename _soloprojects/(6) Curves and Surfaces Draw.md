@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Curves and Surfaces Draw
-tools: [C#, Unity Engine, 2D]
+tools: [Math, C#, Unity Engine, 2D]
 image: "/assets/soloprojects/CurvesAndSurfaces/Title.png"
 ---
 

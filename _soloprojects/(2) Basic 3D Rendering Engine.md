@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Basic 3D Rendering Engine
-tools: [OpenGL, C++, GLFW, Custom Engine, 3D]
+tools: [Graphics, OpenGL, C++, GLFW, Custom Engine, 3D]
 image: "/assets/soloprojects/3DBasicRenderingEngine/Title.png"
 ---
 

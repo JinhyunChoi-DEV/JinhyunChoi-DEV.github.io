@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Character Controller
-tools: [C#, Unity Engine, 3D]
+tools: [Game, C#, Unity Engine, 3D]
 image: "/assets/soloprojects/CharacterController/Title.png"
 ---
 

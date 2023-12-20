@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Static Ray Tracing 
-tools: [C++, Custom Engine, 3D]
+tools: [Graphics, C++, Custom Engine, 3D]
 image: "/assets/soloprojects/StaticRayTracing/Title.jpg"
 ---
 

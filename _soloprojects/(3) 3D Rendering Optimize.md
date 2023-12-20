@@ -1,7 +1,7 @@
 ---
 layout: page
 name: 3D Rendering Optimize
-tools: [OpenGL, C++, GLFW, Custom Engine, 3D]
+tools: [Graphics, OpenGL, C++, GLFW, Custom Engine, 3D]
 image: "/assets/soloprojects/RenderingOptimize/Title.png"
 ---
 

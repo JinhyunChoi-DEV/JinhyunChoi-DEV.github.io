@@ -1,7 +1,7 @@
 ---
 layout: page
 name: CamPic
-tools: [Puzzle, Platformer, 2D, Custom Engine]
+tools: [Game, Puzzle, Platformer, 2D, Custom Engine]
 image: "/assets/teamprojects/CamPic/Title.png"
 ---
 

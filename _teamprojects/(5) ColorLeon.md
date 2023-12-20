@@ -1,7 +1,7 @@
 ---
 layout: page
 name: ColorLeon
-tools: [Puzzle, Platformer, 2D, Custom Engine]
+tools: [Game, Puzzle, Platformer, 2D, Custom Engine]
 image: "/assets/teamprojects/ColorLeon/Title.png"
 ---
 

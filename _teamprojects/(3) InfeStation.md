@@ -1,7 +1,7 @@
 ---
 layout: page
 name: InfeStation
-tools: [FPS, Horror, 3D, Unreal Engine 5]
+tools: [Game, FPS, Horror, 3D, Unreal Engine5]
 image: "/assets/teamprojects/InfeStation/Title.png"
 ---
 

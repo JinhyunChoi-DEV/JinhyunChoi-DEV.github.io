@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Sumo Game With Nintendo SDK
-tools: [C#, Unity Engine, 3D, Local Multiplayer, Nintendo Switch]
+tools: [Game, C#, Unity Engine, 3D, Local Multiplayer, Nintendo Switch]
 image: "/assets/soloprojects/SumoGame/Title.png"
 ---
 
