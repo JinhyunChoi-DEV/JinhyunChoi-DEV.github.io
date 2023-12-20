@@ -16,10 +16,12 @@ image: "/assets/soloprojects/CurvesAndSurfaces/Title.png"
 <br>
 
 ## Information
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/Curve-And-Surface)
-- ###### **Engine**: Unity Engine
-- ###### **Language**: C#
-- ###### TODO
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/Curve-And-Surface)
+- ##### **Engine**: 
+Unity Engine
+- ##### **Language**: 
+C#
 
 <br>
 

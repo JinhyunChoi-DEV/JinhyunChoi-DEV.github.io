@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Sumo Game With Nintendo SDK
-tools: [C#, Unity Engine, 3D, Local Multiplayer]
+tools: [C#, Unity Engine, 3D, Local Multiplayer, Nintendo Switch]
 image: "/assets/soloprojects/SumoGame/Title.png"
 ---
 
@@ -16,12 +16,16 @@ image: "/assets/soloprojects/SumoGame/Title.png"
 <br>
 
 ## Information
-- ###### **Platform**: PC, Nintendo Switch
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/SimpleSumoGame)
-- ###### **Engine**: Unity Engine
-- ###### **Language**: C#
-- ###### **Tools**: Nintendo SDK for Unity Engine
-- ###### TODO
+- ##### **Platform**: 
+PC, Nintendo Switch
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/SimpleSumoGame)
+- ##### **Engine**: 
+Unity Engine
+- ##### **Language**: 
+C#
+- ##### **Tools**: 
+Nintendo SDK for Unity Engine
 
 <br>
 

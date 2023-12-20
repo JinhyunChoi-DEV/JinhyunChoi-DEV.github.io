@@ -32,11 +32,15 @@ image: "/assets/soloprojects/StaticRayTracing/Title.jpg"
 <br>
 
 ## Information
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/CS500)
-- ###### **Engine**: Custom Engine
-- ###### **Language**: C++
-- ###### **Tools**: OpenMP, GLM, bvh library, Assimp, RNGen
-- ###### TODO
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/CS500)
+- ##### **Engine**: 
+Custom Engine
+- ##### **Language**: 
+C++
+- ##### **Tools**:
+ OpenMP, GLM, bvh library, Assimp, RNGen
+- ##### TODO
 
 <br>
 

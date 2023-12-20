@@ -16,11 +16,14 @@ image: "/assets/soloprojects/RenderingOptimize/Title.png"
 <br>
 
 ## Information
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/GraphicEngine)
-- ###### **Engine**: Custom Engine
-- ###### **Language**: C++
-- ###### **Tools**: OpenGL, ImGui, GLFW, RenderDoc, Assimp
-- ###### TODO
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/GraphicEngine)
+- ##### **Engine**: 
+Custom Engine
+- ##### **Language**: 
+C++
+- ##### **Tools**: 
+OpenGL, ImGui, GLFW, RenderDoc, Assimp
 
 <br>
 

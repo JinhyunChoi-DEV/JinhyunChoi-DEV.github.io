@@ -16,10 +16,12 @@ image: "/assets/soloprojects/CharacterController/Title.png"
 <br>
 
 ## Information
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/GAM400)
-- ###### **Engine**: Unity Engine
-- ###### **Language**: C#
-- ###### TODO
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/GAM400)
+- ##### **Engine**: 
+Unity Engine
+- ##### **Language**: 
+C#
 
 <br>
 

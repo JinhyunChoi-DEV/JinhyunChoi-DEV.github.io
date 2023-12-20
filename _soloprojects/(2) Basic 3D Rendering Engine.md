@@ -16,11 +16,14 @@ image: "/assets/soloprojects/3DBasicRenderingEngine/Title.png"
 <br>
 
 ## Information
-- ###### **Github**: [Link](https://github.com/JinhyunChoi-DEV/Digipen_CS300_Assignment)
-- ###### **Engine**: Custom Engine
-- ###### **Language**: C++
-- ###### **Tools**: OpenGL, ImGui, GLFW, RenderDoc
-- ###### TODO
+- ##### **Github**: 
+[Link](https://github.com/JinhyunChoi-DEV/Digipen_CS300_Assignment)
+- ##### **Engine**: 
+Custom Engine
+- ##### **Language**: 
+C++
+- ##### **Tools**: 
+OpenGL, ImGui, GLFW, RenderDoc
 
 <br>
 
