@@ -11,9 +11,8 @@ image: "/assets/teamprojects/ColorLeon/Title.png"
 {% include elements/video.html id="e_iw_CoRdl0" %}
 
 ## Description
-- ##### TODO
+- ###### A 2D puzzle-platform game where character’s color changes physics of the world. Players must cleverly change character’s colors in order to escape the level.
 
-<br>
 
 ## Information
 - ##### **Platform**: 
@@ -31,11 +30,12 @@ Team MIA (4 members)
 - ##### **My Role**: 
 Test Manager, Game Function Creator, Sub Tech Director
 
-<br>
 
 ## Contributions
- - ###### TODO
-
+ - ###### Implemented the Rope System, a key feature in the game
+ - ###### Developed rendering functionalities for the rope, utilizing 2D math knowledge
+ - ###### Added functionalities for stage transitions and implemented the Stage Manager feature
+ - ###### Addressed and resolved various bugs and issues within the game
 
 <br>
 ## Photo

@@ -11,9 +11,8 @@ image: "/assets/teamprojects/EnterTheG157/Title.png"
 {% include elements/video.html id="bWm-_GxVTXM" %}
 
 ## Description
-- ##### TODO
+- ###### Enter the G157 is a fast-paced game inspired by Enter the Gungeon. Enjoy dynamic character animations and three unique weapons! Playable on both Nintendo Switch and PC platforms.
 
-<br>
 
 ## Information
 - ##### **Github**: 
@@ -35,10 +34,18 @@ Team G157 (4 members)
 - ##### **My Role**: 
 Tech Director, General Programmer
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Implemented an input system to enable gameplay on both PC and Nintendo Switch platforms
+ - ###### Developed basic character movement and evasion functionalities
+ - ###### Applied 8-directional character animations for movement, evasion, and idle states
+ - ###### Implemented a weapon system featuring handguns, rifles, and sniper rifles
+ - ###### Implemented attack functionalities for enemies and bosses
+ - ###### Applied animations for enemies and bosses
+ - ###### Optimized the bullet system by applying the Object Pooling Method for efficient resource management
+ - ###### Executed Canvas optimization and structure adjustments to reduce Draw Calls during Nintendo Switch optimization
+ - ###### Implemented an enemy spawn system in alignment with the Random Map Generator
+ - ###### Implemented all features related to in-game player UI: bullets, reloading, health, remaining enemy count, ...
 
 
 <br>

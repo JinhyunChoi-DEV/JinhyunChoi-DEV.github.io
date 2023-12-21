@@ -11,9 +11,8 @@ image: "/assets/teamprojects/SmashLegends/Title.jpg"
 {% include elements/video.html id="ZHVXAMyi8hI" %}
 
 ## Description
-- ##### TODO
+- ###### Play Smash Legends for free! Smash Legends is an exciting PVP action brawler where fairy tale Legends engage in a lively battle. Play solo or in a 3v3 team battle with your friends! Play now with Smashers from all over the world on Steam, iOS, and Android!
 
-<br>
 
 ## Information
 - ##### **Platform**: 
@@ -31,10 +30,20 @@ Team SMASH LEGENDS (30~40 members, Outgame Client Programmer: 3 people)
 - ##### **My Role**: 
 OutGame Client Programmer, Live Service, Game Feature Creator.
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Implemented all UI functionalities and scenes related to the out-game experience
+ - ###### Specialized in the implementation of client-server network functionalities, utilizing MQTT, WebSocket, HTTP Request, and more
+ - ###### Implemented various features using the network system: social interactions, party systems, and chat functionalities
+ - ###### Utilized databases to implement diverse functionalities, including localization systems, attendance tracking, battle passes, subscription systems, and more
+ - ###### Implemented various features using JSON, such as emergency notices and WebView functionalities
+ - ###### Developed a replay system
+ - ###### Applied third-party SDKs for in-house services
+ - ###### Implemented various system functionalities using third-party SDKs, including login systems, maintenance alerts, In-App Purchases (IAP), billing with purchases, push alarms, and more
+ - ###### Utilized Android Developer/Apple Developer features, including IAP and app ratings
+ - ###### Collaborated and communicated with diverse teams such as the art team, operations team, and project management team for successful project execution
+ - ###### Managed the live service for the out-game part, overseeing operations and maintenance on PlayStore, AppStore, and Steam
+ - ###### Accumulated experience in build deployment and live service operations using tools such as Jenkins and Sentry
 
 
 <br>

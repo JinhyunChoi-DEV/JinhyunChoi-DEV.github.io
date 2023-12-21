@@ -11,9 +11,8 @@ image: "/assets/teamprojects/CamPic/Title.png"
 {% include elements/video.html id="1Uf0iUW0DB8" %}
 
 ## Description
-- ##### TODO
+- ###### CamPic is a 2D platformer puzzle game that player uses their camera to capture themselves and use them as a alternative platform to proceed to the goal.
 
-<br>
 
 ## Information
 - ##### **Platform**: 
@@ -33,10 +32,17 @@ Team Boleh (3 members)
 - ##### **My Role**: 
 Tech Director, Engine Architecture, Graphics Programmer, Main Programmer
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Implemented the structure and functionalities of a 2D game engine for game development
+ - ###### Developed 2D graphic engine functionalities to support the game engine
+ - ###### Implemented various visual effects for enhanced graphics: textures, animations, particles, screenshot capture, dynamic camera movement, and more
+ - ###### Implemented character movement and physics functionalities
+ - ###### Developed the magic camera feature using the AABB method
+ - ###### Implemented unique camera functions, including zoom in, zoom out, and character saves
+ - ###### Implemented all in-game player-related UI functionalities
+ - ###### Developed all out-game UI functionalities for menus, scenes, ...
+ - ###### Managed the team's Git flow for effective collaboration and version control
 
 
 <br>

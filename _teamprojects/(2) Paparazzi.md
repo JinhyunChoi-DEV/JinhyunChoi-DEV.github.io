@@ -11,9 +11,8 @@ image: "/assets/teamprojects/Paparazzi/Title.png"
 {% include elements/video.html id="-Bn4ZBjgCDI" %}
 
 ## Description
-- ##### TODO
+- ###### Paparatchi is a 3D puzzle platformer inspired ViewFinder game and players use a magical camera to overcome obstacles and strategize their way through stages. Explore the camera's diverse functions to progress in this enchanting game.
 
-<br>
 
 ## Information
 - ##### **Github**: 
@@ -33,10 +32,19 @@ Team G157 (6 members)
 - ##### **My Role**: 
 Tech Director, General Programmer, Git Director
 
-<br>
 
 ## Contributions
- - ###### TODO
+ - ###### Implemented a Third-Person Shooter (TPS) screen and Camera View Switching System functionality
+ - ###### Implemented collision detection for objects within the Camera Viewport using Camera Viewport knowledge and 3D Math
+ - ###### Utilized Plane & Geometry Slice functionalities to implement object slicing for objects requiring slicing after collision checks
+ - ###### Developed the ability to save sliced objects as photos, allowing users to arrange them as desired
+ - ###### Implemented the feature to rotate placed objects.
+ - ###### Enabled physics-based interaction for objects stored in photos
+ - ###### Implemented UI for the magic camera feature
+ - ###### Developed a camera battery system with corresponding UI features
+ - ###### Implemented a photo album system, allowing users to save and navigate through various photos or pages with related UI features
+ - ###### Enabled character physics interaction on moving surfaces: Implemented a functionality where the character can move independently on the floor without relying on the parent method when on top of it
+
 
 
 <br>
