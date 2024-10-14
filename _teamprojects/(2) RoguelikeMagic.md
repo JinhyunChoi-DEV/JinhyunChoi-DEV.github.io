@@ -2,23 +2,21 @@
 layout: page
 name: ROGUELIKE MAGIC
 tools: [Game, Casual, Fortnite, RogueLike, 3D, UEFN]
-image: "/assets/teamprojects/ROGUELIKEMAGIC/Title.png"
+image: "/assets/teamprojects/ROGUELIKEMAGIC/ROGUELIKEMAGIC1.png"
 ---
 
 # ROGUELIKE MAGIC
 
 <br>
-{% include elements/video.html id="-ajzGIhudI00" %}
+{% include elements/video.html id="ajzGIhudI00" %}
 
 ## Description
 - ###### ROGUELIKE MAGIC, developed by Super Jump Games with Team17 - a first of it's kind open-world roguelike action-RPG in Fortnite!
 
 
 ## Information
-- ##### **Github**: 
-[Link](www.fortnite.com/@team17usa/9996-0287-9937)
 - ##### **Platform**: 
-PC
+[PC](https://www.fortnite.com/@team17usa/9996-0287-9937?lang=en-US)
 - ##### **Genre**: 
 3D RogueLike Action RPG Game
 - ##### **Engine**: 
