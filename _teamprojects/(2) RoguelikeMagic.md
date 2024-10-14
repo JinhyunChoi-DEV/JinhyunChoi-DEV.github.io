@@ -2,7 +2,7 @@
 layout: page
 name: ROGUELIKE MAGIC
 tools: [Game, Casual, Fortnite, RogueLike, 3D, UEFN]
-image: "/assets/teamprojects/ROGUELIKEMAGIC/ROGUELIKEMAGIC1.png"
+image: "/assets/teamprojects/ROGUELIKEMAGIC/Title.png"
 ---
 
 # ROGUELIKE MAGIC
