@@ -1,7 +1,16 @@
+- title: Game Engineer Intern
+  from: Sep 2024
+  to: Nov 2024
+  detail: Super Jump Games
+  description_info:
+    - description: Focused on developing a roguelike magic game using the UEFN engine and Verse language.
+    - description: Utilized the Verse language to work on various game features, bug fixes, and monitored live services, addressing issues and development challenges.
+    - description: Applied knowledge of algorithms and data structures to ensure the effective operation of complex features.
+
 - title: Teaching Assistant (Computer Graphics)
   from: Sep 2023
   to: Dec 2023
-  detail: Digipen DigiPen Institute of Technology (Redmond, WA)
+  detail: DigiPen Institute of Technology (Redmond, WA)
   description_info:
     - description: Providing support for students' learning, reviewing assignments, and assisting with questions.
     - description: Offered individual guidance to students struggling with understanding the course material. Additionally, I evaluated students' performance on project assignments.
