@@ -7,6 +7,9 @@
 - name: C#
   color: info
 
+- name: Verse
+  color: info
+
 - name: GLSL
   color: info
 
