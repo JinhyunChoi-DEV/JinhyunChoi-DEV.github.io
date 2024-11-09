@@ -1,29 +1,29 @@
-- title: Game Engineer Intern
-  from: Sep 2024
-  to: Nov 2024
-  detail: Super Jump Games
+- title: 게임 프로그래머 인턴
+  from: 9월 2024
+  to: 11월 2024
+  detail: Super Jump Games (Remote)
   description_info:
-    - description: Focused on developing a roguelike magic game using the UEFN engine and Verse language.
-    - description: Utilized the Verse language to work on various game features, bug fixes, and monitored live services, addressing issues and development challenges.
-    - description: Applied knowledge of algorithms and data structures to ensure the effective operation of complex features.
+    - description: UEFN 엔진과 Verse 언어를 사용하여 ROGUELIKE MAGIC 게임 개발에 집중했습니다.
+    - description: Verse 언어를 활용하여 다양한 게임 기능을 개발하고, 버그 수정 및 라이브 서비스 모니터링을 통해 문제와 개발 과제를 해결했습니다.
+    - description: 알고리즘과 데이터 구조에 대한 지식을 적용하여 복잡한 기능의 효율적인 운영을 보장했습니다.
 
 - title: Teaching Assistant (Computer Graphics)
-  from: Sep 2023
-  to: Dec 2023
+  from: 9월 2023
+  to: 12월 2023
   detail: DigiPen Institute of Technology (Redmond, WA)
   description_info:
-    - description: Providing support for students' learning, reviewing assignments, and assisting with questions.
-    - description: Offered individual guidance to students struggling with understanding the course material. Additionally, I evaluated students' performance on project assignments.
-    - description: Leveraged a deep understanding of OpenGL and Shader programming to provide technical guidance to students. I also reviewed the technical aspects of projects.
-    - description: Covered Geometric modeling, Lighting, shading & deferred shading, Texture & parallax mapping, and Environmental, reflective & refractive mapping.
+    - description: 학생들의 학습을 지원하며 과제를 검토하고 질문에 응답했습니다.
+    - description: 강의 내용을 이해하는 데 어려움을 겪는 학생들에게 개별 지도를 제공했습니다. 또한, 프로젝트 과제에서 학생들의 성과를 평가했습니다.
+    - description: OpenGL과 셰이더 프로그래밍에 대한 깊은 이해를 활용하여 학생들에게 기술적 지도를 제공하고, 프로젝트의 기술적 측면을 검토했습니다.
+    - description: 기하학적 모델링, 조명, 셰이딩 및 지연 셰이딩, 텍스처 및 패럴랙스 매핑, 환경 반사 및 굴절 매핑을 다루었습니다.
 
-- title: Outgame Client Programmer
-  from: Jan 2020
-  to: Apr 2022
-  detail: 5minlab (Korea, Seoul)
+- title: 아웃게임 클라이언트 프로그래머
+  from: 1월 2020
+  to: 4월 2022
+  detail: 5민랩 (서울, 대한민국)
   description_info:
-    - description: Collaborated with UI designers to develop Unity-based UI scenes, pages, and various systems.
-    - description: Collaborated with server programmers to develop various out-game functionalities on the client side, using a range of network technologies such as MQTT, WebSocket, and HTTP requests.
-    - description: Attached SDK to our project and made SDK implementation for features. Made Login, Maintenance, IAP(In-App Purchase), Billing System with Purchase, and Push Alarm System.
-    - description: Coordinated market space like PlayStore, AppStore, and Steam, and tested those APIs like review ratings, IAP and many other functions.
-    - description: As the live service specialist for the out-game part, I worked on addressing issues and bugs, developing new features related to live services, and collaborated extensively with the PM team on game operations.
+    - description: UI 디자이너와 협력하여 Unity 기반의 UI 씬, 페이지, 및 다양한 시스템을 개발했습니다.
+    - description: 서버 프로그래머와 협력하여 MQTT, WebSocket, HTTP 요청과 같은 네트워크 기술을 활용하여 클라이언트 측에서 다양한 아웃게임 기능을 개발했습니다.
+    - description: 프로젝트에 SDK를 연동하고 기능을 위한 SDK 구현을 수행했습니다. 로그인, 점검, 인앱 결제(IAP), 결제 시스템, 푸시 알림 시스템을 개발했습니다.
+    - description: PlayStore, AppStore, Steam 등 마켓 스페이스를 관리하고, 리뷰 평점, IAP 등 여러 기능과 관련된 API를 테스트했습니다.
+    - description: 아웃게임 라이브 서비스 담당자로서 이슈 및 버그 해결, 라이브 서비스 관련 신규 기능 개발에 주력하였고, PM 팀과 협력하여 게임 운영에 대한 폭넓은 협업을 진행했습니다.

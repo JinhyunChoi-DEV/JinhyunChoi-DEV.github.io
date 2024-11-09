@@ -5,23 +5,25 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
+# **자기소개**
 
-Hello! My name is **{{ site.author.name }}**, a senior pursuing a Bachelor of Science in Computer Science at DigiPen Institute of Technology. I am an enthusiastic senior software engineer, actively expanding my skills and experiences through various projects.
+안녕하세요! 저는 **{{ site.author.name }}**이며, DigiPen Institute of Technology에서 컴퓨터 과학 학사 과정을 마친 2024년 4월 28일 졸업생입니다. 다양한 프로젝트를 통해 기술과 경험을 확장해 나가는 열정적인 소프트웨어 엔지니어입니다.
 
-I am deeply committed to crafting clean, efficient, and bug-free code to enhance user experiences while strengthening code maintainability. With each project, I strive to adhere to SOLID principles and continually learn and apply various programming paradigms.
+저는 사용자 경험을 개선하고 코드 유지 보수성을 강화하기 위해 깔끔하고 효율적인 코드를 작성하는 데에 헌신하고 있습니다. 각 프로젝트에서 SOLID 원칙을 준수하고, 다양한 프로그래밍 패러다임을 배우고 적용하며 성장해 나가고 있습니다.
 
-Particularly, my involvement in the Smash Legends project provided invaluable lessons in teamwork, collaboration, and the significance of effective communication within a large team. As a Client Game Programmer, I took pride in contributing to the release of the game in the actual gaming industry. Despite my role primarily focusing on client-side development, I gained valuable experience in utilizing numerous network systems for Outgame features.
+특히, Smash Legends 프로젝트에 참여하면서 대규모 팀 내에서 협업과 소통의 중요성에 대해 많은 것을 배울 수 있었습니다. 클라이언트 게임 프로그래머로서 실제 게임 산업에서의 출시 과정에 기여한 것을 자랑스럽게 생각하며, 클라이언트 측 개발뿐만 아니라 아웃게임 기능을 위한 다양한 네트워크 시스템을 활용하는 경험도 쌓았습니다.
 
-Passionate about tackling technical challenges, I am dedicated to constant learning and growth. Keeping pace with the rapid evolution of technology, I actively pursue continuous learning to discover better solutions.
+또한, 미국의 인디 게임 회사인 Super Jump Games에서 3개월간 인턴 경험을 통해 Verse 언어와 UEFN (Unreal Editor for Fortnite) 엔진을 빠르게 익히고, 현재 출시된 Roguelike Magic 게임의 유지보수 및 새로운 기능 개발에 참여했습니다. 새로운 환경에서도 빠르게 적응하고 학습하여 다양한 프로젝트에서도 신속하게 기여할 수 있는 역량을 갖추게 되었습니다.
 
-I am eager to seize opportunities to contribute to creating better solutions for the future. I look forward to meeting individuals who share the enthusiasm for growth and are ready to tackle future technological challenges together.
+아울러, 학사 과정 중 그래픽스와 3D 수학 과목들을 이수하며 실시간 렌더링에 대한 기초와 고급 그래픽 기능들을 학습하고 직접 구현했습니다. 이러한 학습 과정은 그래픽스 프로그래밍에 대한 열정을 키우고 전문성을 더하는 중요한 밑거름이 되었으며, 최종적으로 3.93/4.0의 높은 학점으로 학사 과정을 마칠 수 있었습니다.
+
+기술적 도전에 대한 열정으로 지속적인 학습과 성장을 추구하며, 빠르게 변화하는 기술 환경에 맞추어 더 나은 솔루션을 모색하고 있습니다. 미래를 위한 더 나은 솔루션을 만드는 데 기여할 기회를 기대하며, 성장에 대한 열정을 공유하고 함께 미래의 기술적 도전을 해결할 동료들을 만나기를 고대합니다.
 
 <div class="row">
-{% include about/skills.html title="Programming Language" source=site.data.language%}
-{% include about/skills.html title="Engine&Programming Paradigm" source=site.data.enginewithparadigm%}
+{% include about/skills.html title="프로그래밍 언어" source=site.data.language%}
+{% include about/skills.html title="엔진 & 프로그래밍 기술" source=site.data.enginewithparadigm%}
 </div>
 
 <div class="row">
-{% include about/skills.html title="Tools" source=site.data.tools%}
+{% include about/skills.html title="도구" source=site.data.tools%}
 </div>

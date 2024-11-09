@@ -10,32 +10,32 @@ image: "/assets/teamprojects/ColorLeon/Title.png"
 <br>
 {% include elements/video.html id="e_iw_CoRdl0" %}
 
-## Description
-- ###### A 2D puzzle-platform game where character’s color changes physics of the world. Players must cleverly change character’s colors in order to escape the level.
+## 간략 설명
+- ###### 캐릭터의 색상이 세계의 물리 법칙을 바꾸는 2D 퍼즐 플랫폼 게임입니다. 플레이어는 레벨을 탈출하기 위해 캐릭터의 색상을 전략적으로 변경해야 합니다.
 
 
-## Information
-- ##### **Platform**: 
+## 정보
+- ##### **플랫폼**: 
 [PC](https://drive.google.com/file/d/199CgRWj6YCOg3JYwQ0xes0QpoleFjm6B/view?usp=sharing)
-- ##### **Genre**: 
-2D Platformer Puzzle
-- ##### **Engine**: 
-Givien Engine (For Students In Our College)
-- ##### **Language**: 
+- ##### **장르**: 
+2D 퍼즐 플랫포머
+- ##### **엔진**: 
+커스텀 엔진 - Custom Engine
+- ##### **언어**: 
 C++
-- ##### **Team**: 
-Team MIA (4 members)
-- ##### **Project Development Time**: 
-3 Month (Mar 2018 ~ June 2018)
-- ##### **My Role**: 
-Test Manager, Game Function Creator, Sub Tech Director
+- ##### **팀**: 
+Team MIA (4명)
+- ##### **개발 기간**: 
+4개월 (3월 2018 ~ 6월 2018)
+- ##### **역할**: 
+게임 기능 프로그래머, 테스트 엔지니어, 메인 프로그래머
 
 
-## Contributions
- - ###### Implemented the Rope System, a key feature in the game
- - ###### Developed rendering functionalities for the rope, utilizing 2D math knowledge
- - ###### Added functionalities for stage transitions and implemented the Stage Manager feature
- - ###### Addressed and resolved various bugs and issues within the game
+## 기여 내용
+ - ###### 게임의 핵심 기능인 로프 시스템을 구현했습니다.
+ - ###### 2D 수학 지식을 활용하여 로프의 렌더링 기능을 개발했습니다.
+ - ###### 스테이지 전환 기능을 추가하고 스테이지 매니저 기능을 구현했습니다.
+ - ###### 게임 내 다양한 버그 및 문제를 해결했습니다.
 
 <br>
 ## Photo

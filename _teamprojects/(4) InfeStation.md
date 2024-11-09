@@ -10,34 +10,34 @@ image: "/assets/teamprojects/InfeStation/Title.png"
 <br>
 {% include elements/video.html id="YuNPCPl4bfc" %}
 
-## Description
-- ###### InfeStation is an Unreal Engine 5 first-person horror game set in an desolate space station. While battling a myriad of terrifying monsters, you, the isolated player in this vast cosmic realm, must overcome or escape the horrors to find your way out.
+## 간략 설명
+- ###### InfeStation은 Unreal Engine 5로 제작된 1인칭 공포 게임으로, 황량한 우주 정거장을 배경으로 합니다. 수많은 무서운 괴물들과 싸우면서, 고립된 플레이어는 이 광활한 우주에서 공포를 극복하거나 피해서 탈출해야만 탈출구를 찾을 수 있습니다.
 
 
-## Information
-- ##### **Platform**: 
+## 정보
+- ##### **플랫폼**: 
 [PC](https://drive.google.com/file/d/1dgEeDYiERrmTjLcEPGxUkhgGfCvzoXUE/view?usp=sharing)
-- ##### **Genre**: 
-3D Horror FPS
-- ##### **Engine**: 
-Unreal Engine 5
-- ##### **Language**: 
+- ##### **장르**: 
+3D 호러 FPS
+- ##### **엔진**: 
+언리얼엔진5 - Unreal Engine 5
+- ##### **언어**: 
 C++, Blueprint
-- ##### **Team**: 
-Black Hole Syndicate (8 members)
-- ##### **Project Development Time**: 
-4 Month (Dec 2022 ~ Mar 2023)
-- ##### **My Role**: 
-AI & General Programmer
+- ##### **팀**: 
+Black Hole Syndicate (8명)
+- ##### **개발 기간**: 
+4개월 (12월 2022 ~ 3월 2023)
+- ##### **역할**: 
+AI & 게임 프로그래머
 
 
-## Contributions
- - ###### Developed two types of enemies using Unreal Engine Behavior Trees
- - ###### Implemented a basic enemy type utilizing AI perception for player detection, chasing, and attacking
- - ###### Created an enemy type with [Weeping Angel](https://en.wikipedia.org/wiki/Weeping_Angel)/[SCP-173](https://villains.fandom.com/wiki/SCP-173) behavior using the Viewport and AI perception
- - ###### Implemented movement, attack, and player execution animations for each enemy
- - ###### Developed and applied enemy spawn/reset functionalities
- - ###### Addressed and resolved various bugs and issues within the enemy behaviors
+## 기여 내용
+ - ###### Unreal Engine의 Behavior Tree를 사용하여 두 가지 종류의 적을 개발했습니다.
+ - ###### 플레이어 감지, 추적 및 공격을 위한 AI 인식을 활용하여 기본 적 유형을 구현했습니다.
+ - ###### [우는 천사]((https://en.wikipedia.org/wiki/Weeping_Angel))/[SCP-173](https://villains.fandom.com/wiki/SCP-173)행동을 구현하기 위해 뷰포트와 AI 인식을 사용한 적 유형을 생성했습니다.
+ - ###### 각 적의 이동, 공격 및 플레이어 처형 애니메이션을 구현했습니다.
+ - ###### 적 생성 및 리셋 기능을 개발하고 적용했습니다.
+ - ###### 적 행동 내의 다양한 버그와 문제를 해결하고 수정했습니다.
 
 
 
