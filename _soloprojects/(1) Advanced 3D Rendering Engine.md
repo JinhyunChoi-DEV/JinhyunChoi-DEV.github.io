@@ -2,7 +2,7 @@
 layout: page
 name: Advanced 3D Rendering Engine
 tools: [Graphics, OpenGL, C++, GLFW, Custom Engine, 3D]
-image: "/assets/soloprojects/Advanced3DRenderingEngine/Title.jpg"
+image: "/assets/soloprojects/Advanced3DRenderingEngine/Title.png"
 ---
 
 # Advanced 3D Rendering Engine
