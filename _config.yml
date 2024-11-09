@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : Jinhyun Choi
+title               : 최진현
 description         : >-
-                      Software Engineer: Graphics / Game
+                      그래픽스 / 게임 프로그래머
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : JinhyunChoi-DEV/JinhyunChoi-DEV.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
